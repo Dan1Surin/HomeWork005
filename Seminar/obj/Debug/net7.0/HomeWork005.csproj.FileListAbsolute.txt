@@ -1,0 +1,30 @@
+C:\Users\dan1s\OneDrive\Документы\HomeWork\Новая папка\bin\Debug\net7.0\HomeWork005.exe
+C:\Users\dan1s\OneDrive\Документы\HomeWork\Новая папка\bin\Debug\net7.0\HomeWork005.deps.json
+C:\Users\dan1s\OneDrive\Документы\HomeWork\Новая папка\bin\Debug\net7.0\HomeWork005.runtimeconfig.json
+C:\Users\dan1s\OneDrive\Документы\HomeWork\Новая папка\bin\Debug\net7.0\HomeWork005.dll
+C:\Users\dan1s\OneDrive\Документы\HomeWork\Новая папка\bin\Debug\net7.0\HomeWork005.pdb
+C:\Users\dan1s\OneDrive\Документы\HomeWork\Новая папка\obj\Debug\net7.0\HomeWork005.csproj.AssemblyReference.cache
+C:\Users\dan1s\OneDrive\Документы\HomeWork\Новая папка\obj\Debug\net7.0\HomeWork005.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dan1s\OneDrive\Документы\HomeWork\Новая папка\obj\Debug\net7.0\HomeWork005.AssemblyInfoInputs.cache
+C:\Users\dan1s\OneDrive\Документы\HomeWork\Новая папка\obj\Debug\net7.0\HomeWork005.AssemblyInfo.cs
+C:\Users\dan1s\OneDrive\Документы\HomeWork\Новая папка\obj\Debug\net7.0\HomeWork005.csproj.CoreCompileInputs.cache
+C:\Users\dan1s\OneDrive\Документы\HomeWork\Новая папка\obj\Debug\net7.0\HomeWork005.dll
+C:\Users\dan1s\OneDrive\Документы\HomeWork\Новая папка\obj\Debug\net7.0\refint\HomeWork005.dll
+C:\Users\dan1s\OneDrive\Документы\HomeWork\Новая папка\obj\Debug\net7.0\HomeWork005.pdb
+C:\Users\dan1s\OneDrive\Документы\HomeWork\Новая папка\obj\Debug\net7.0\HomeWork005.genruntimeconfig.cache
+C:\Users\dan1s\OneDrive\Документы\HomeWork\Новая папка\obj\Debug\net7.0\ref\HomeWork005.dll
+C:\Users\dan1s\OneDrive\Документы\HomeWork\HomeWork005\Seminar\bin\Debug\net7.0\HomeWork005.exe
+C:\Users\dan1s\OneDrive\Документы\HomeWork\HomeWork005\Seminar\bin\Debug\net7.0\HomeWork005.deps.json
+C:\Users\dan1s\OneDrive\Документы\HomeWork\HomeWork005\Seminar\bin\Debug\net7.0\HomeWork005.runtimeconfig.json
+C:\Users\dan1s\OneDrive\Документы\HomeWork\HomeWork005\Seminar\bin\Debug\net7.0\HomeWork005.dll
+C:\Users\dan1s\OneDrive\Документы\HomeWork\HomeWork005\Seminar\bin\Debug\net7.0\HomeWork005.pdb
+C:\Users\dan1s\OneDrive\Документы\HomeWork\HomeWork005\Seminar\obj\Debug\net7.0\HomeWork005.csproj.AssemblyReference.cache
+C:\Users\dan1s\OneDrive\Документы\HomeWork\HomeWork005\Seminar\obj\Debug\net7.0\HomeWork005.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dan1s\OneDrive\Документы\HomeWork\HomeWork005\Seminar\obj\Debug\net7.0\HomeWork005.AssemblyInfoInputs.cache
+C:\Users\dan1s\OneDrive\Документы\HomeWork\HomeWork005\Seminar\obj\Debug\net7.0\HomeWork005.AssemblyInfo.cs
+C:\Users\dan1s\OneDrive\Документы\HomeWork\HomeWork005\Seminar\obj\Debug\net7.0\HomeWork005.csproj.CoreCompileInputs.cache
+C:\Users\dan1s\OneDrive\Документы\HomeWork\HomeWork005\Seminar\obj\Debug\net7.0\HomeWork005.dll
+C:\Users\dan1s\OneDrive\Документы\HomeWork\HomeWork005\Seminar\obj\Debug\net7.0\refint\HomeWork005.dll
+C:\Users\dan1s\OneDrive\Документы\HomeWork\HomeWork005\Seminar\obj\Debug\net7.0\HomeWork005.pdb
+C:\Users\dan1s\OneDrive\Документы\HomeWork\HomeWork005\Seminar\obj\Debug\net7.0\HomeWork005.genruntimeconfig.cache
+C:\Users\dan1s\OneDrive\Документы\HomeWork\HomeWork005\Seminar\obj\Debug\net7.0\ref\HomeWork005.dll
